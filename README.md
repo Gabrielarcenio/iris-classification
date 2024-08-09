@@ -1,16 +1,16 @@
-# Machine Learning with Iris Dataset
+# Machine Learning com Iris Dataset
 ![Python](https://img.shields.io/badge/python-2.x-orange.svg)
 ![Type](https://img.shields.io/badge/Machine-Learning-red.svg) ![Type](https://img.shields.io/badge/Type-Supervised-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-yellowgreen.svg)
 
-## Introduction
-The Iris dataset is a classic dataset for classification, machine learning, and data visualization.
+## Introdução
+O conjunto de dados Iris é um clássico para classificação, aprendizado de máquina e visualização de dados.
 
-The dataset contains: 3 classes (different Iris species) with 50 samples each, and then four numeric properties about those classes: Sepal Length, Sepal Width, Petal Length, and Petal Width.
+O conjunto de dados contém: 3 classes (diferentes espécies de Iris) com 50 amostras cada, e quatro propriedades numéricas sobre essas classes: Comprimento da Sépala, Largura da Sépala, Comprimento da Pétala e Largura da Pétala.
 
-One species, Iris Setosa, is "linearly separable" from the other two. This means that we can draw a line (or a hyperplane in higher-dimensional spaces) between Iris Setosa samples and samples corresponding to the other two species.
+Uma das espécies, Iris Setosa, é "linearmente separável" das outras duas. Isso significa que podemos traçar uma linha (ou um hiperplano em espaços de dimensões superiores) entre as amostras de Iris Setosa e as amostras correspondentes às outras duas espécies.
 
-Predicted Attribute: Different Species of Iris plant.
+Atributo Previsto: Diferentes Espécies da planta Iris.
 
-## Purpose
-The purpose of this project was to gain introductory exposure to Machine Learning Classification concepts along with data visualization. The project makes heavy use of Scikit-Learn, Pandas and Data Visualization Libraries.
+## Propósito
+O objetivo deste projeto foi obter uma exposição introdutória aos conceitos de Classificação em Aprendizado de Máquina, juntamente com a visualização de dados. O projeto faz uso intensivo das bibliotecas Scikit-Learn, Pandas e de Visualização de Dados.
